@@ -22,7 +22,7 @@
     </build>
 
     <properties>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <testFailureIgnore.value>true</testFailureIgnore.value>
         <maven.surefire.plugin.version>2.22.1</maven.surefire.plugin.version>
     </properties>
